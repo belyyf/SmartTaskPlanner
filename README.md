@@ -82,3 +82,6 @@ Smart Task Planner — это настольное WPF-приложение дл
  • MVVM
 
  • JSON
+
+
+презентация - https://docs.google.com/presentation/d/11Wj_3HIPKFPbZ1SX3MiGxBOIzacVO6PiDo4-SxNNViQ/edit?usp=sharing
